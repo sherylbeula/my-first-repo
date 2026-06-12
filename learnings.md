@@ -9,3 +9,4 @@ git log --oneline
 git remote add ............
 git branch -M main
 git push -u origin mainLearned how commit and push work on GitHub.
+- Learned more about Git commits and pushes
